@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:b="http://butterfaces.org/components">
+
+<h:head>
+
+  <title>Hello ButterFaces</title>
+
+</h:head>
+
+<body>
+<h:form id="formId">
+  <b:markdown id="input"
+              label="label"
+              hideLabel="false"
+              value="Hello ButterFaces"
+              tooltip="tooltip"
+              readonly="false"
+              required="false"
+              disabled="false"
+              placeholder="Enter text..."
+              language="en"
+              autoFocus="false"
+              rendered="true">
+    <b:tooltip>
+      tooltip
+    </b:tooltip>
+  </b:markdown>
+
+  <h:link value = "http://butterfaces.org" outcome = "http://butterfaces.org" />
+
+</h:form>
+</body>
+
+</html>
