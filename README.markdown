@@ -1,4 +1,4 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for Morjarra,PrimeFaces,OmniFaces,ButterFaces,BootFaces!
 
 Template license
 ----------------
