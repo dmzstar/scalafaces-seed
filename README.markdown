@@ -1,4 +1,4 @@
-A [Giter8][g8] template for Mojarra,PrimeFaces,OmniFaces,ButterFaces,BootFaces!
+A [Giter8][g8] template for Mojarra,PrimeFaces,OmniFaces,ButterFaces,BootFaces,AdminFaces!
 
 Template license
 ----------------
